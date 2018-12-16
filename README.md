@@ -8,6 +8,10 @@
 
 2.装完了之后点击file->open 找到刚才下载的zengzhihai.7z压缩之后的文件路径，进行打开。然后就可以启动了。
 
+链接：https://pan.baidu.com/s/1YNXVxO-Av-nb-QnnrDuIzQ 
+
+提取码：frov 
+
 
 
 vmware workstation 安装教程：https://jingyan.baidu.com/article/9f7e7ec09da5906f281554d6.html

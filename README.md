@@ -16,17 +16,7 @@ vmware workstation 安装教程：https://jingyan.baidu.com/article/9f7e7ec09da5
 
 所有的程序安装目录都在/use/local/ 下面
 
-我们截个图看一下
-
-![1544929991066](C:\Users\zhuihui\AppData\Local\Temp\1544929991066.png)
-
-
-
-所有的软件的下载路径都在/root/soft下面，如图
-
-![1544930031313](C:\Users\zhuihui\AppData\Local\Temp\1544930031313.png)
-
-
+所有的软件的下载路径都在/root/soft下面
 
 如果涉及到php的一些安装扩展，可以在此路径下面找到。
 
